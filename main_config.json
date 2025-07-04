@@ -1,0 +1,20 @@
+{
+  "full nuke": {
+    "message": "# @everyone https://discord.gg/9PXvqErb3g",
+    "new_server_name": "Nuked By TS, Tool: GG-Nuker-V8 made by TS",
+    "change_notification": true,
+    "add_admin": false,
+    "channel_name": "N-U-K-E-D-B-Y-T-S",
+    "text_channel_amount": 40,
+    "voice_channel_amount": 1
+  },
+  "freindly nuke": {
+    "message": "@everyone NUKED NUKED DUKED",
+    "new_server_name": "discord.gg/9PXvqErb3g",
+    "change_notification": true,
+    "add_admin": false,
+    "channel_name": "stupid",
+    "text_channel_amount": 30,
+    "voice_channel_amount": 1
+  }
+}
